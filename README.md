@@ -1,0 +1,1 @@
+Le jeu BINGO repose sur le concept de prédiction des boules sortant d'une urne, similaire à une urne contenant 10 boules numérotées de 0 à 9. Chaque réponse correcte permet d'augmenter le score du joueur, avec un maximum de 10 tentatives par partie. De plus, les joueurs peuvent consulter les meilleurs scores.
